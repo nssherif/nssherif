@@ -15,5 +15,3 @@ Checkout out my Github this cool 3D Skyline of my github profile timeline.
 <img align="center" src="assets/GithubTimeline.gif" height="200" />
 
 
-## Checkout my repos to find out about my projects. 
-
