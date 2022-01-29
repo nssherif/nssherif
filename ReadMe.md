@@ -11,7 +11,7 @@ Welcome to my Github Profile
 - ⚡ Fun fact: I can juggle :juggling_person:
 
 
-Checkout out this cool 3D Skyline of my github profile timeline. <br>
-![Alt](/assets/GithubTimeline.gif "Timeline")
+Checkout out this cool 3D Skyline of my github profile commit history. <br>
+![Alt](/assets/negib-github-timeline.gif "Timeline")
 
 
