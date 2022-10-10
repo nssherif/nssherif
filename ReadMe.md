@@ -5,7 +5,7 @@ Welcome to my Github Profile
 
 
 # About Me
-- :school: I'm currenlty in my 5th term (3rd year) as a computer engineering student at Memorial University.  
+- :school: I'm currenlty in my 4th year as a computer engineering student at Memorial University.  
 - :trophy: Won a Hackathon where 150+ other people competed 
 - :hourglass: 1 year of experince in Web Development and counting...
 - ⚡ Fun fact: I can juggle :juggling_person:
